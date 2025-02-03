@@ -24,6 +24,9 @@ Consider making a non-tax-deductible donation:
 paypal.me/zhavensGravBlueSD
 to help support the math work.
 
+For questions about the project, email:
+graviticengine@gmail.com
+
 Thank you for reading,
 you deserve a link to a funny video:
 https://www.youtube.com/watch?v=i4G4p_yQEAI
