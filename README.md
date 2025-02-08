@@ -9,14 +9,14 @@ in raised, alternating counterweights to drive the relatively large plunger head
 The mathematical result described in the spreadsheet is surprising. This type of math should result in a conservation of energy, but that is not the case.
 
 So one of two situations is happening: \
-Either \
+Either 
 1) The math is wrong in four different areas: \
    a) Force-balance equations related to the pulley system, pump chamber, and counterweights \
    b) Energy equations tied to the gravitational potential energy that can be created after one cycle \
    c) Energy equations tied to the kinetic energy that can be created by one cycle \
    d) Logic checks (over two dozen) to validate the feasibility of the device \
    \
-OR \
+OR 
 2) There is an unknown energy source that was left out of the input section of the thermodynamic equation. \
 The following short list speculates on the device's energy source: \
    a) The molecular bonds of the cables within the pulley system (and information related to the weave of the cables or wires) \
@@ -47,8 +47,8 @@ to help support the math work. \
 Or via Patreon: patreon.com/giveandtakeinfo \
  \
 For questions about the project, email: \
-graviticengine@gmail.com \
-
+graviticengine@gmail.com 
+ \
 Thank you for reading, \
 you deserve a link to a funny video: \
-https://www.youtube.com/watch?v=i4G4p_yQEAI \
+https://www.youtube.com/watch?v=i4G4p_yQEAI 
